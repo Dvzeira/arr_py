@@ -1,0 +1,6 @@
+produtos_loja_comida = ["Arroz", "Feijão", "Macarrão", "Frango", "Tomate"]
+
+anos_nascimento = [1990, 1985, 1995, 1980, 2000]
+
+print("Produtos da loja de comida:", produtos_loja_comida)
+print("Anos de nascimento de familiares e amigos:", anos_nascimento)
